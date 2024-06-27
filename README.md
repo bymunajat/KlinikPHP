@@ -57,9 +57,6 @@ The Web-Based Clinic Information System is a free, open-source application devel
 
 This application has been tested and is functional, though it may contain some bugs that need fixing. Users are encouraged to further improve and add new features to enhance the application's performance and usability. It can also serve as a reference for school projects, final assignments, theses, or for learning how to build and understand the workings of a clinic management application.
 
-## Screenshots
-
-(Include screenshots of the application in use here)
 
 ---
 
